@@ -1,0 +1,5 @@
+# Hidden directories (tool/IDE configs)
+.*
+
+# Exceptions
+!.gitignore
